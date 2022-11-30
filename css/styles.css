@@ -477,7 +477,7 @@ background-color: #F5F4FA;
   width: 370px;
   text-align: center;  
   justify-content: center;
-  padding: 27px auto;  
+  padding: 27px 0;  
   transform: translateY(100%);
   transition: transform 250ms;
   
